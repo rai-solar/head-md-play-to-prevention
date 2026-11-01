@@ -18,6 +18,10 @@ It unfolds as a linear interactive narrative structured around a day-and-night c
 - The closing screen scrolls through accounts of solidarity and support, showing how people have helped others facing bullying.
 
 ### Moodboard<img width="2672" height="1630" alt="02_26-11-01_os-sur-mousse" src="https://github.com/user-attachments/assets/042c506a-2e83-47bb-a28a-dee9faf20fe7" />
+#### References
+<img width="879" height="1035" alt="26-11-01_alice" src="https://github.com/user-attachments/assets/aa43a6e1-4b43-4871-b76e-69931dc99719" />
+<img width="1800" height="1169" alt="26-11-01_lotr_00" src="https://github.com/user-attachments/assets/91dce1f4-ba00-4e72-8949-66759dcfc5eb" />
+<img width="1800" height="1169" alt="26-11-01_lotr_01" src="https://github.com/user-attachments/assets/ab50b4ab-45e6-4618-9e19-2eb3c93c5154" />
 
 
 #### Night
