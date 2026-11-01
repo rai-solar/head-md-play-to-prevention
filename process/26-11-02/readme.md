@@ -20,7 +20,6 @@ It unfolds as a linear interactive narrative structured around a day-and-night c
 ### Moodboard<img width="2672" height="1630" alt="02_26-11-01_os-sur-mousse" src="https://github.com/user-attachments/assets/042c506a-2e83-47bb-a28a-dee9faf20fe7" />
 
 
-#### Day
 #### Night
 <img width="4096" height="3008" alt="00_splats" src="https://github.com/user-attachments/assets/c41e319f-4e6e-42c1-b77e-78d7516c027e" />
 <img width="3600" height="2338" alt="01_26-11-01_transversal_cake" src="https://github.com/user-attachments/assets/ff4c124a-8487-486e-af5d-97e167bd9f85" />
